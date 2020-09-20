@@ -53,7 +53,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 <div class="w3-padding-large" id="main">
   <!-- Header/Home -->
   <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
-    <h1 class="w3-jumbo"><span class="w3-hide-small">I'm</span> User.</h1>
+    <h1 class="w3-jumbo"><span class="w3-hide-small">I'm</span> Lars.</h1>
     <p>Cloud Developer Advocate , IBM Pakistan.</p>
     <img src="/profile.png" alt="boy" class="w3-image" width="100" height="100">
   </header>
@@ -61,11 +61,21 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   <!-- About Section -->
   <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="about">
     <hr style="width:200px" class="w3-opacity">
-    <p>Some text about me. Some text about me. I am lorem ipsum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-      ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur
-      adipiscing, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    <p>Hey, this was way cool.
     </p>
-    <h3 class="w3-padding-16 w3-text-light-grey">My Skills</h3>
+    <p>Thanks to the awesome Cloud Study Network and especially Cloud Study Network Nürenberg, with Karen Tamrazyan and Vladislav Tamrazyan.
+    </p>
+    <p>A special thanks to the great IBM developer advocates who heldt the live demo and walkthrough! So gratefull for you all getting me up and runnin with my own first cloud site, I'm so happe today :D:D:D
+    <p>
+      <ol>
+        <li>Muhammad Ahsan Khan, IBM Developer Advocate, https://www.linkedin.com/in/ahsaankhan/</li>
+        <li>Saad Tariq, IBM Developer Advocate, https://www.linkedin.com/in/saadtariq/</li>
+        <li>Thomas Suedbroecker, IBM Developer Advocate https://www.linkedin.com/in/thomassuedbroecker/</li>   
+    </ol>
+    </p>
+    "In this workshop you will learn about IBM's Cloud Foundry service and how to integrate IBM toolchain for continuous integration and delivery."
+  </p>
+  <h3 class="w3-padding-16 w3-text-light-grey">My Skills</h3>
     <p class="w3-wide">RedHat OpenShift</p>
     <div class="w3-white">
       <div class="w3-dark-grey" style="height:28px;width:90%"></div>
