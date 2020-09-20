@@ -75,19 +75,24 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     </p>
     "In this workshop you will learn about IBM's Cloud Foundry service and how to integrate IBM toolchain for continuous integration and delivery."
   </p>
-  <h3 class="w3-padding-16 w3-text-light-grey">My Skills</h3>
-    <p class="w3-wide">RedHat OpenShift</p>
+  <h3 class="w3-padding-16 w3-text-light-grey">My Skills - To be announced</h3>
+    <p class="w3-wide">Ubuntu</p>
     <div class="w3-white">
       <div class="w3-dark-grey" style="height:28px;width:90%"></div>
     </div>
-    <p class="w3-wide">Kubernetes</p>
+    <p class="w3-wide">Java, Kotlin, Scala</p>
     <div class="w3-white">
       <div class="w3-dark-grey" style="height:28px;width:85%"></div>
     </div>
-    <p class="w3-wide">Cloud Migration</p>
+    <p class="w3-wide">Vue.js</p>
     <div class="w3-white">
       <div class="w3-dark-grey" style="height:28px;width:80%"></div>
-    </div><br>
+    </div>
+    <p class="w3-wide">Jekyll and Hyde Static Web Pages</p>
+    <div class="w3-white">
+      <div class="w3-dark-grey" style="height:28px;width:80%"></div>
+    </div>
+    <br>
     
     <div class="w3-row w3-center w3-padding-16 w3-section w3-light-grey">
       <div class="w3-quarter w3-section">
